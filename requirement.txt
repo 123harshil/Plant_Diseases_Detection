@@ -1,0 +1,6 @@
+kagglehub
+panda
+numpy<2
+tensorflow<=2.11
+matplotlib
+seaborn
